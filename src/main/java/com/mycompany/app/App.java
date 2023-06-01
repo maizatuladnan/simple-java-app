@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Last change for today");
+        System.out.println("Test pollSCM");
     }
 
     public String getMessage() {
